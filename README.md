@@ -58,7 +58,7 @@ http://localhost:5000
 
 
 ## Frontend Image :
-https://hub.docker.com/r/YOUR_DOCKERHUB_USERNAME/frontend
+https://hub.docker.com/r/soumitatalukder/frontend
 
 ## Backend Image :
-https://hub.docker.com/r/YOUR_DOCKERHUB_USERNAME/backend
+https://hub.docker.com/r/soumitatalukder/backend
